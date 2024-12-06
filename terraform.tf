@@ -2,9 +2,9 @@
 # SPDX-License-Identifier: MPL-2.0
 
 terraform {
-  /* Uncomment this block to use Terraform Cloud for this tutorial
+
   cloud {
-      organization = "organization-name"
+      organization = "testing1"
       workspaces {
         name = "learn-terraform-refresh"
       }
